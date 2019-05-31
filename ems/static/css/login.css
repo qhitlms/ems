@@ -1,0 +1,48 @@
+page{
+	background-color: #f4f4f4;
+	font-size: 35upx;
+}
+.content{
+	margin-top: 50upx;
+}
+input{
+	background: white;
+	width: 86%;
+	height: 100upx;
+	padding-left: 30upx;
+	margin: 30upx 5%;
+}
+button{
+	width: 90%;
+	margin: 50upx 5%;
+}
+.pxc{
+	position: relative;
+	top: -98upx;
+	right: 60upx;
+	float: right;
+	z-index: 3;
+}
+/* 注册页面 */
+radio-group{
+	margin: 0upx 5%;
+}
+label{
+	margin: 0upx 60upx 0upx 0upx;
+}
+radio-group{
+	background: white;
+	width: 86%;
+	height: 100upx;
+	padding-left: 30upx;
+	margin: 30upx 5%;
+	line-height: 100upx;
+}
+picker{
+	background: white;
+	width: 86%;
+	height: 100upx;
+	padding-left: 30upx;
+	margin: 30upx 5%;
+	line-height: 100upx;
+}

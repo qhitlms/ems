@@ -1,0 +1,58 @@
+/* energy */
+.comps{
+	width: 80%;
+	margin: 10upx 10%;
+}
+.cdate{
+	text-align: center;
+	font-size: 30upx;
+}
+.total{
+	text-align: center;
+	margin-top: 20upx;
+}
+.total .left{
+	display: inline-block;
+	width: 370upx;
+	font-size: 90upx;
+	font-weight: bold;
+	padding-left: 10%;
+}
+.total .right{
+	display: inline-block;
+	width: 100upx;
+	font-size: 30upx;
+	text-align: center;
+}
+.type{
+	text-align: center;
+	margin-top: 40upx;
+	margin-bottom: 40upx;
+}
+.type image{
+	width: 70upx;
+	height: 70upx;
+}
+.type .left,.type .middle,.type .right{
+	display: inline-block;
+	width: 200upx;
+	font-size: 30upx;
+	font-weight: bold;
+	color: black;
+}
+.buttons{
+	text-align: center;
+	margin-bottom: 20upx;
+}
+.day{
+	display: inline-block;
+	width: 200upx;
+	border-top-left-radius: 30upx;
+	border-bottom-left-radius: 30upx;
+}
+.month{
+	display: inline-block;
+	width: 200upx;
+	border-top-right-radius: 30upx;
+	border-bottom-right-radius: 30upx;
+}
